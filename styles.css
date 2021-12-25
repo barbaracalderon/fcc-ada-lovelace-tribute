@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600&family=Prata&display=swap');
+
+body {
+  background: white;
+  color: white;
+  font-family: Inter;]
+  line-height: 5;
+}
+
+h1, h2, h3 {
+  font-family: Prata, serif;
+  text-align: center;
+  color: #1F1D36;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+p {
+  text-align: center;
+}
+
+#img-div {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+#tribute-info {
+  margin: 0 20rem;
+}
+
+#main {
+  margin: 15px 10px;
+  border-radius: 1rem;
+  background-color: #645284;
+  padding: 10px;
+}
+
+#tribute-link:hover {
+    color: #EADEB8;
+}
+
