@@ -8,6 +8,11 @@ This first challenge was supposed to create a very simple Tribute Page with HTML
 
 In my case, I chose to make a very simple Tribute Page to Ada Lovelace.
 
+## Responsive Web Design Projects:
+
+1. **Simple Ada Lovelace Tribute Page**
+2. A freeCodeCamp Survey Form
+
 ### MY SOLUTION
 ![my desktop solution of the freecodecamp number one project from the responsive web design course: a very simple tribute page to Ada Lovelace](BC_ada_lovelace_tribute_page.png)
 
@@ -19,6 +24,10 @@ Esse primeiro desafio era para criar um versão muito simples de uma página tri
 
 No meu caso, eu escolhi fazer uma página muito simples sobre a Ada Lovelace.
 
+## Projetos do "Responsive Web Design Projects":
+
+1. **Simple Ada Lovelace Tribute Page**
+2. A freeCodeCamp Survey Form
 
 ### MY SOLUTION
 ![my desktop solution of the freecodecamp number one project from the responsive web design course: a very simple tribute page to Ada Lovelace](BC_ada_lovelace_tribute_page.png)
